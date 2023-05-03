@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spike
+  - ground
+  - Mirrow
+  - line
+  - box
+  - ShootPoint
+  - portalStart
+  - portalEnd
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background1
+  - Background2
+  - Character
+  - Light
+  - Mirror
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background1
+    uniqueID: 3938664511
+    locked: 0
+  - name: Button
+    uniqueID: 1592129333
+    locked: 0
+  - name: Background2
+    uniqueID: 1256257975
+    locked: 0
+  - name: Character
+    uniqueID: 1102710485
+    locked: 0
+  - name: UI
+    uniqueID: 3563742781
+    locked: 0
